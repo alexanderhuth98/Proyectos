@@ -1,5 +1,3 @@
 # Proyectos
 
-Repositorio reservado para futuros proyectos personales.
-
-Los proyectos anteriores fueron retirados para reorganizar el portfolio con foco en analisis de datos.
+Los proyectos de analisis de datos se subiran proximamente.
